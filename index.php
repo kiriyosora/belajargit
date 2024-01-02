@@ -1,1 +1,1 @@
-ini adalah teks pertama saya di git
+ini adalah teks pertama saya di gitu
